@@ -62,7 +62,7 @@ public class AddToCart extends BaseTest {
 		try {
 			summerdress.ValidateItemsAddedToCart(productname, productprice);
 		} catch (Exception e) {
-					e.printStackTrace();
+					//e.printStackTrace();
 		}
 
 	}
@@ -96,7 +96,7 @@ public class AddToCart extends BaseTest {
 		try {
 			summerdress.ValidateItemsAddedToCart(dress, price);
 		} catch (Exception e) {
-					e.printStackTrace();
+				//	e.printStackTrace();
 		}
 
 	}

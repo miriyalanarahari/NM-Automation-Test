@@ -63,63 +63,63 @@ formatter.match({
   "location": "AddToCart.website_is_Open()"
 });
 formatter.result({
-  "duration": 27272472201,
+  "duration": 37010388600,
   "status": "passed"
 });
 formatter.match({
   "location": "AddToCart.go_to_Women_section()"
 });
 formatter.result({
-  "duration": 467629700,
+  "duration": 573925800,
   "status": "passed"
 });
 formatter.match({
   "location": "AddToCart.navigate_to_summer_dresses()"
 });
 formatter.result({
-  "duration": 1150191301,
+  "duration": 3634149400,
   "status": "passed"
 });
 formatter.match({
   "location": "AddToCart.sort_the_items_by_price_Low_to_High()"
 });
 formatter.result({
-  "duration": 2400952000,
+  "duration": 999300700,
   "status": "passed"
 });
 formatter.match({
   "location": "AddToCart.add_a_random_dress_to_basket()"
 });
 formatter.result({
-  "duration": 1331918099,
+  "duration": 1437315700,
   "status": "passed"
 });
 formatter.match({
   "location": "AddToCart.ensure_that_dress_is_added_to_cart()"
 });
 formatter.result({
-  "duration": 268058500,
+  "duration": 192663500,
   "status": "passed"
 });
 formatter.match({
   "location": "AddToCart.clear_the_cart()"
 });
 formatter.result({
-  "duration": 432907300,
+  "duration": 484896000,
   "status": "passed"
 });
 formatter.match({
   "location": "AddToCart.add_another_dress_to_cart_which_is_not_same_as_the_one_which_is_added_before()"
 });
 formatter.result({
-  "duration": 1464975800,
+  "duration": 1461700100,
   "status": "passed"
 });
 formatter.match({
   "location": "AddToCart.ensure_that_dress_is_added_to_cart()"
 });
 formatter.result({
-  "duration": 227527499,
+  "duration": 189050000,
   "status": "passed"
 });
 formatter.scenario({
@@ -179,28 +179,28 @@ formatter.match({
   "location": "AddToCart.website_is_Open()"
 });
 formatter.result({
-  "duration": 22670023299,
+  "duration": 18587429200,
   "status": "passed"
 });
 formatter.match({
   "location": "AddToCart.go_to_Women_section()"
 });
 formatter.result({
-  "duration": 161050500,
+  "duration": 166596400,
   "status": "passed"
 });
 formatter.match({
   "location": "AddToCart.navigate_to_summer_dresses()"
 });
 formatter.result({
-  "duration": 3113792500,
+  "duration": 3718734100,
   "status": "passed"
 });
 formatter.match({
   "location": "AddToCart.sort_the_items_by_price_Low_to_High()"
 });
 formatter.result({
-  "duration": 631072500,
+  "duration": 716132300,
   "status": "passed"
 });
 formatter.match({
@@ -217,7 +217,7 @@ formatter.match({
   "location": "AddToCart.add_a_dress_of_price_to_basket(String,String)"
 });
 formatter.result({
-  "duration": 1350769600,
+  "duration": 1627531300,
   "status": "passed"
 });
 formatter.match({
@@ -234,14 +234,14 @@ formatter.match({
   "location": "AddToCart.ensure_that_dress_of_price_is_added_to_the_cart(String,String)"
 });
 formatter.result({
-  "duration": 287443199,
+  "duration": 204899200,
   "status": "passed"
 });
 formatter.match({
   "location": "AddToCart.clear_the_cart()"
 });
 formatter.result({
-  "duration": 706568000,
+  "duration": 447580800,
   "status": "passed"
 });
 formatter.match({
@@ -258,7 +258,7 @@ formatter.match({
   "location": "AddToCart.add_a_dress_of_price_to_basket(String,String)"
 });
 formatter.result({
-  "duration": 2097659401,
+  "duration": 1673211600,
   "status": "passed"
 });
 formatter.match({
@@ -275,7 +275,7 @@ formatter.match({
   "location": "AddToCart.ensure_that_dress_of_price_is_added_to_the_cart(String,String)"
 });
 formatter.result({
-  "duration": 229053600,
+  "duration": 192329600,
   "status": "passed"
 });
 });
